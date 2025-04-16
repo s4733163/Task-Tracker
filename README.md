@@ -13,6 +13,7 @@ Completed tasks automatically move to the bottom of the list.
 🔗 [GitHub Repository](https://github.com/s4733163/Task-Tracker)  
 💻 **Live Demo**: *(Add your GitHub Pages link here once deployed)*
 
+
 ---
 
 
@@ -77,3 +78,4 @@ Task-Tracker/
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+> Inspired by [roadmap.sh](https://roadmap.sh/projects/datepicker-ui). A great starting point for frontend developers to practice UI layout skills.
