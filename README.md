@@ -78,4 +78,4 @@ Task-Tracker/
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-> Inspired by [roadmap.sh](https://roadmap.sh/projects/datepicker-ui). A great starting point for frontend developers to practice UI layout skills.
+> Inspired by [roadmap.sh](https://roadmap.sh/projects/task-tracker-js). A great starting point for frontend developers to practice UI layout skills.
